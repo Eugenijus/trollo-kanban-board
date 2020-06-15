@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.message {
+  background-color: #dff0ff;
+  border: 2px solid #2185d0;
+  border-radius: 5px;
+  padding: 5px;
+}
